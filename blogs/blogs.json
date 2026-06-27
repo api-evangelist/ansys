@@ -3,13 +3,10 @@
   "feeds": [
     {
       "source": "https://www.ansys.com/blog",
-      "error": "timeout"
-    },
-    {
-      "source": "https://catalog.ansys.com",
-      "error": "HTTPError"
+      "saved": 0,
+      "error": "fetch failed (timeout / socket hang up)"
     }
   ],
-  "post_count": 0,
-  "fetched": "2026-06-14T20:42:17Z"
+  "fetched": "2026-06-27T12:23:28Z",
+  "post_count": 0
 }
