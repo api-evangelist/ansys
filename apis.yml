@@ -74,6 +74,8 @@ apis:
       - type: Documentation
         url: https://www.ansys.com/it-solutions/ansys-cloud
 common:
+  - type: DomainSecurity
+    url: security/ansys-domain-security.yml
   - type: Website
     url: https://www.ansys.com
   - type: Products
