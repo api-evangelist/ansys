@@ -86,6 +86,17 @@ apis:
       - type: Documentation
         url: https://www.ansys.com/it-solutions/ansys-cloud
 common:
+  - type: IssueTracker
+    url: https://github.com/ansys/pyansys/issues
+  - type: Releases
+    url: https://github.com/ansys/pyansys/releases
+  - type: CodeOfConduct
+    url: https://github.com/ansys/.github/blob/main/CODE_OF_CONDUCT.md
+  - type: ContributionGuide
+    url: https://github.com/ansys/.github/blob/main/CONTRIBUTING.md
+  - type: License
+    name: MIT
+    url: https://github.com/ansys/pyansys/blob/main/LICENSE
   - type: DomainSecurity
     url: security/ansys-domain-security.yml
   - type: Website
