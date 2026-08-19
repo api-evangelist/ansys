@@ -28,7 +28,7 @@ tags:
   - SDK
 created: '2026-05-23'
 modified: '2026-05-23'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 description: >-
   Ansys is a global engineering simulation company (now part of Synopsys) with a deep portfolio
   spanning structures (Mechanical, LS-DYNA, Motion), fluids (Fluent, CFX, Rocky), electronics
