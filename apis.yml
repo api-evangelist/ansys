@@ -56,6 +56,12 @@ apis:
     tags:
       - Python
       - SDK
+      - Open-Source
+      - gRPC
+      - Scripting
+    tags_raw:
+      - Python
+      - SDK
       - Open Source
       - gRPC
       - Scripting
