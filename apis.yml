@@ -2,6 +2,19 @@ aid: ansys
 url: https://raw.githubusercontent.com/api-evangelist/ansys/refs/heads/main/apis.yml
 name: Ansys
 kind: company
+deliveryModel:
+  model: open-core
+  license: MIT
+  open_source: true
+  commercial: true
+  callable_host: false
+  label: Open core · an OSS project plus a commercial hosted product
+  confidence: high
+  source:
+  - license
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: free
   onboarding: unknown
