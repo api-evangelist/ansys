@@ -70,7 +70,7 @@ apis:
     tags:
       - Python
       - SDK
-      - Open-Source
+      - Open Source
       - gRPC
       - Scripting
     tags_raw:
@@ -79,6 +79,7 @@ apis:
       - Open Source
       - gRPC
       - Scripting
+      - Open-Source
     properties:
       - type: Documentation
         url: https://docs.pyansys.com
