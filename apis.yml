@@ -107,6 +107,12 @@ apis:
       - type: Documentation
         url: https://www.ansys.com/it-solutions/ansys-cloud
 common:
+  - type: Plans
+    url: plans/ansys-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/ansys-rate-limits.yml
+  - type: FinOps
+    url: finops/ansys-finops.yml
   - type: IssueTracker
     url: https://github.com/ansys/pyansys/issues
   - type: Releases
