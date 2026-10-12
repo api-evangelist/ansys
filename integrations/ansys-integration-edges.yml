@@ -1,0 +1,22 @@
+generated: '2026-10-13'
+method: searched
+checked:
+- https://aws.amazon.com/marketplace/
+marketplace_apps: []
+edges:
+- partner_name: AWS Marketplace
+  partner: amazon-web-services
+  partner_match: aggregator
+  type: marketplace
+  marketplace: aws-marketplace
+  channel: distribution
+  relationship: platform-app
+  direction: provider-built
+  evidence: https://aws.amazon.com/marketplace/seller-profile?id=da5c4b05-4956-423a-b4ac-735250f3f445
+  listing_count: 2
+  apps:
+  - Ansys SimAI
+  - Ansys Cloud Burst Compute
+  seller_name: Ansys
+  detected_by: sweep-cloud-marketplaces.py
+  detected: '2026-10-13'
