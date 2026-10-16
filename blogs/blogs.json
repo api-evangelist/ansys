@@ -2,6 +2,13 @@
   "repo": "ansys",
   "feeds": [
     {
+      "source": "https://www.ansys.com/blog",
+      "feed_url": "https://www.ansys.com/blog",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    },
+    {
       "source": "https://catalog.ansys.com",
       "feed_url": "https://catalog.ansys.com",
       "title": "",
@@ -9,6 +16,6 @@
       "method": "none"
     }
   ],
-  "fetched": "2026-10-03T12:30:02Z",
+  "fetched": "2026-10-10T13:15:00Z",
   "post_count": 0
 }
