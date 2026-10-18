@@ -101,6 +101,11 @@ apis:
     tags:
       - Cloud
       - HPC
+      - Microsoft Azure
+      - Bursting
+    tags_raw:
+      - Cloud
+      - HPC
       - Azure
       - Bursting
     properties:
