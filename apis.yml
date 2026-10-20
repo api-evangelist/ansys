@@ -1,7 +1,11 @@
 aid: ansys
+
 url: https://raw.githubusercontent.com/api-evangelist/ansys/refs/heads/main/apis.yml
+
 name: Ansys
+
 kind: company
+
 deliveryModel:
   model: open-core
   license: MIT
@@ -15,6 +19,7 @@ deliveryModel:
   - pricing
   generated: '2026-08-28'
   method: derived
+
 accessModel:
   pricing: free
   onboarding: unknown
@@ -28,7 +33,9 @@ accessModel:
   - {url: 'https://www.ansys.com', status: 301, note: 'declared website redirects to https://ansys.synopsys.com/ — a different registrable domain (ansys.com -> synopsys.com), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
   generated: '2026-07-22'
   method: derived
+
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/ansys.png
+
 tags:
   - Simulation
   - Engineering
@@ -40,9 +47,13 @@ tags:
   - Cloud
   - Python
   - SDK
+
 created: '2026-05-23'
+
 modified: '2026-05-23'
+
 specificationVersion: '0.23'
+
 description: >-
   Ansys is a global engineering simulation company (now part of Synopsys) with a deep portfolio
   spanning structures (Mechanical, LS-DYNA, Motion), fluids (Fluent, CFX, Rocky), electronics
@@ -54,6 +65,86 @@ description: >-
   Ansys products as Pythonic interfaces. There is no public web REST API portal; programmatic
   access is licensed per product and driven through PyAnsys, ACT (Ansys Customization Toolkit),
   product scripting (MAPDL, Fluent TUI/Scheme), and Ansys Cloud.
+
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
+
+common:
+  - type: LLMsTxt
+    url: llms/ansys-llms.txt
+  - type: Hosts
+    url: hosts/ansys-hosts.yml
+  - type: IntegrationEdges
+    url: integrations/ansys-integration-edges.yml
+  - type: Vendors
+    url: vendors/ansys-vendors.yml
+  - type: SDKs
+    url: packages/ansys-packages.yml
+  - type: Packages
+    url: packages/ansys-packages.yml
+  - type: TermsOfService
+    url: https://developer.synopsys.com/terms-and-conditions
+  - type: PrivacyPolicy
+    url: https://ansys.synopsys.com/legal/privacy-notice
+  - type: Leadership
+    url: https://www.ansys.synopsys.com/company-information/leadership
+  - type: Plans
+    url: plans/ansys-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/ansys-rate-limits.yml
+  - type: FinOps
+    url: finops/ansys-finops.yml
+  - type: IssueTracker
+    url: https://github.com/ansys/pyansys/issues
+  - type: Releases
+    url: https://github.com/ansys/pyansys/releases
+  - type: CodeOfConduct
+    url: https://github.com/ansys/.github/blob/main/CODE_OF_CONDUCT.md
+  - type: ContributionGuide
+    url: https://github.com/ansys/.github/blob/main/CONTRIBUTING.md
+  - type: License
+    name: MIT
+    url: https://github.com/ansys/pyansys/blob/main/LICENSE
+  - type: DomainSecurity
+    url: security/ansys-domain-security.yml
+  - type: Website
+    url: https://www.ansys.com
+  - type: Products
+    url: https://www.ansys.com/products
+  - type: AllProducts
+    url: https://www.ansys.com/products/all-products
+  - type: ReleaseHighlights
+    url: https://www.ansys.com/products/release-highlights
+  - type: Documentation
+    url: https://ansyshelp.ansys.com
+  - type: DeveloperPortal
+    url: https://developer.synopsys.com
+  - type: Documentation
+    url: https://developer.synopsys.com/docs
+  - type: GitHubOrganization
+    url: https://github.com/ansys
+  - type: PyAnsys
+    url: https://docs.pyansys.com
+  - type: GitHub
+    url: https://github.com/ansys
+  - type: AnsysInnovationSpace
+    url: https://innovationspace.ansys.com
+  - type: Academic
+    url: https://www.ansys.com/academic
+  - type: AppStore
+    url: https://catalog.ansys.com
+  - type: Blog
+    url: https://ansys.synopsys.com/blog
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/ansys-inc
+  - type: YouTube
+    url: https://www.youtube.com/user/ansysinc
+  - type: Support
+    url: https://www.ansys.com/support
+  - type: Pricing
+    url: https://www.ansys.com/contact-us
+
 apis:
   - aid: ansys:pyansys
     name: PyAnsys
@@ -111,64 +202,52 @@ apis:
     properties:
       - type: Documentation
         url: https://www.ansys.com/it-solutions/ansys-cloud
-common:
-  - type: Plans
-    url: plans/ansys-plans-pricing.yml
-  - type: RateLimits
-    url: rate-limits/ansys-rate-limits.yml
-  - type: FinOps
-    url: finops/ansys-finops.yml
-  - type: IssueTracker
-    url: https://github.com/ansys/pyansys/issues
-  - type: Releases
-    url: https://github.com/ansys/pyansys/releases
-  - type: CodeOfConduct
-    url: https://github.com/ansys/.github/blob/main/CODE_OF_CONDUCT.md
-  - type: ContributionGuide
-    url: https://github.com/ansys/.github/blob/main/CONTRIBUTING.md
-  - type: License
-    name: MIT
-    url: https://github.com/ansys/pyansys/blob/main/LICENSE
-  - type: DomainSecurity
-    url: security/ansys-domain-security.yml
-  - type: Website
-    url: https://www.ansys.com
-  - type: Products
-    url: https://www.ansys.com/products
-  - type: AllProducts
-    url: https://www.ansys.com/products/all-products
-  - type: ReleaseHighlights
-    url: https://www.ansys.com/products/release-highlights
-  - type: Documentation
-    url: https://ansyshelp.ansys.com
-  - type: DeveloperPortal
-    url: https://developer.ansys.com
-  - type: PyAnsys
-    url: https://docs.pyansys.com
-  - type: GitHub
-    url: https://github.com/ansys
-  - type: AnsysCloud
-    url: https://www.ansys.com/it-solutions/ansys-cloud
-  - type: AnsysLearningHub
-    url: https://www.ansys.com/training-center/ansys-learning-hub
-  - type: AnsysInnovationSpace
-    url: https://innovationspace.ansys.com
-  - type: Academic
-    url: https://www.ansys.com/academic
-  - type: AppStore
-    url: https://catalog.ansys.com
-  - type: Blog
-    url: https://www.ansys.com/blog
-  - type: LinkedIn
-    url: https://www.linkedin.com/company/ansys-inc
-  - type: YouTube
-    url: https://www.youtube.com/user/ansysinc
-  - type: Support
-    url: https://www.ansys.com/support
-  - type: Pricing
-    url: https://www.ansys.com/contact-us
-  - type: TrustCenter
-    url: https://www.ansys.com/legal/trust-center
-maintainers:
-  - FN: Kin Lane
-    email: kin@apievangelist.com
+  - aid: ansys:mapdl-grpc
+    name: Ansys MAPDL gRPC API
+    description: >-
+      gRPC service contract (package ansys.api.mapdl.v0) that PyMAPDL uses to drive a licensed
+      Mechanical APDL server: command execution, input streaming, database access. Published as
+      .proto files in the ansys/ansys-api-mapdl GitHub repository.
+    humanURL: https://github.com/ansys/ansys-api-mapdl
+    baseURL: grpc://localhost:50052
+    tags: [gRPC, Simulation, FEA]
+    properties:
+      - type: Protobuf
+        url: grpc/ansys-mapdl-mapdl.proto
+      - type: Protobuf
+        url: grpc/ansys-mapdl-mapdl_db.proto
+      - type: Protobuf
+        url: grpc/ansys-mapdl-ansys_kernel.proto
+      - type: Protobuf
+        url: grpc/ansys-mapdl-C_StreamGrpc.proto
+      - type: SourceCode
+        url: https://github.com/ansys/ansys-api-mapdl
+  - aid: ansys:mechanical-grpc
+    name: Ansys Mechanical gRPC API
+    description: >-
+      gRPC service contract (package ansys.api.mechanical.v0) used by PyMechanical to run scripts
+      against a licensed Ansys Mechanical server, published in the ansys/ansys-api-mechanical repository.
+    humanURL: https://github.com/ansys/ansys-api-mechanical
+    baseURL: grpc://localhost:10000
+    tags: [gRPC, Simulation, FEA]
+    properties:
+      - type: Protobuf
+        url: grpc/ansys-mechanical.proto
+      - type: SourceCode
+        url: https://github.com/ansys/ansys-api-mechanical
+
+x-coverage:
+  state: covered
+  reason: covered
+  checked: '2026-10-20'
+  detail: >-
+    No OpenAPI is published; the machine-readable contracts are first-party gRPC protos in the ansys GitHub org
+    (MAPDL v0, 79 rpcs; Mechanical v0, 8 rpcs), archived verbatim under grpc/.
+  evidence:
+  - url: https://github.com/ansys
+    status: 200
+x-enrichment:
+  date: '2026-10-20'
+  status: enriched
+  artifacts_added: 8
+  pass: local-v5

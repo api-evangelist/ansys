@@ -1,9 +1,21 @@
-generated: '2026-10-13'
+generated: '2026-10-20'
 method: searched
+source:
+- dassault/integrations/dassault-integration-edges.yml
+- https://zapier.com/apps/ansys/integrations
+- https://n8n.io/integrations/ansys/
+- https://composio.dev/toolkits/ansys
+- https://monid.ai/tools/ansys
 checked:
+- dassault/integrations/dassault-integration-edges.yml
 - https://aws.amazon.com/marketplace/
 - https://cloudsecurityalliance.org/star/registry
 - https://eucoc.cloud/en/public-register/list-of-adherent-services
+- https://composio.dev/toolkits/ansys
+- https://monid.ai/tools/ansys
+- https://n8n.io/integrations/ansys/
+- https://zapier.com/apps/ansys/integrations
+summary: null
 marketplace_apps: []
 edges:
 - partner_name: AWS Marketplace
@@ -22,6 +34,23 @@ edges:
   seller_name: Ansys
   detected_by: sweep-cloud-marketplaces.py
   detected: '2026-10-13'
+- partner_name: Dassault Systèmes (own)
+  partner: dassault
+  partner_match: mirror
+  mirror_match: domain
+  type: marketplace
+  relationship: platform-app
+  direction: third-party
+  channel: partner-built
+  marketplace: own
+  evidence: https://www.3ds.com/partners/solutions/100000000001407_PDT00000000362_FLUENT_for_CATIA_V5
+  mirror_of: dassault/integrations/dassault-integration-edges.yml
+  apps:
+  - FLUENT for CATIA V5
+  listing_count: 1
+  detected: '2026-10-19'
+  detected_by: mirror-platform-listings.py
+  category: CAA / 3DEXPERIENCE partner solution
 - partner_name: Cloud Security Alliance STAR Registry
   partner: null
   partner_match: register
@@ -52,6 +81,4 @@ edges:
     detected: '2026-10-20'
   detected_by: sweep-compliance-assurance.py
   first_seen: '2026-10-20'
-source:
-- https://cloudsecurityalliance.org/star/registry
-- https://eucoc.cloud/en/public-register/list-of-adherent-services
+templates: []

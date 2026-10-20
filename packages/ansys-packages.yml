@@ -1,0 +1,61 @@
+name: Ansys packages
+generated: '2026-10-20'
+method: searched
+source: https://pypi.org/pypi/<pkg>/json (queried 2026-10-20); github.com/ansys
+packages:
+  - name: pyansys
+    registry: pypi
+    url: https://pypi.org/project/pyansys/
+    language: Python
+    official: true
+    version: '2026.1.3'
+    published: '2026-06-11'
+  - name: ansys-mapdl-core
+    registry: pypi
+    url: https://pypi.org/project/ansys-mapdl-core/
+    language: Python
+    official: true
+    version: '0.74.1'
+    published: '2026-08-17'
+  - name: ansys-fluent-core
+    registry: pypi
+    url: https://pypi.org/project/ansys-fluent-core/
+    language: Python
+    official: true
+    version: '0.43.0'
+    published: '2026-10-16'
+  - name: pyaedt
+    registry: pypi
+    url: https://pypi.org/project/pyaedt/
+    language: Python
+    official: true
+    version: '1.9.0'
+    published: '2026-10-10'
+  - name: ansys-mechanical-core
+    registry: pypi
+    url: https://pypi.org/project/ansys-mechanical-core/
+    language: Python
+    official: true
+    version: '0.13.4'
+    published: '2026-10-12'
+  - name: ansys-dpf-core
+    registry: pypi
+    url: https://pypi.org/project/ansys-dpf-core/
+    language: Python
+    official: true
+    version: '0.16.3'
+    published: '2026-10-16'
+  - name: ansys-api-mapdl
+    registry: pypi
+    url: https://pypi.org/project/ansys-api-mapdl/
+    language: Python
+    official: true
+    version: '0.6.0'
+    published: '2026-02-13'
+  - name: ansys-api-mechanical
+    registry: pypi
+    url: https://pypi.org/project/ansys-api-mechanical/
+    language: Python
+    official: true
+    version: '0.1.4'
+    published: '2026-03-09'

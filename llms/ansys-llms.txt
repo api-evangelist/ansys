@@ -1,0 +1,834 @@
+# Ansys Developer Portal
+
+> Comprehensive Ansys developer portal providing API and SDK documentation, tutorials, sample code, app catalog, and technical guidance. Enabling developers and engineers to develop applications, discover and integrate solutions, automate and extend simulation workflows, and accelerate product design, analysis, testing, and digital engineering initiatives across industries.
+
+## Main menu
+
+- [Home](https://developer.synopsys.com/home.md): Ansys Developer Portal landing page
+- [Documentation](https://developer.synopsys.com/docs.md): Searchable documentation for libraries, APIs, SDKs, and developer resources
+- [Knowledge base](https://developer.synopsys.com/knowledge-base.md): Articles, how-tos, and technical notes
+- [Forum](https://discuss.ansys.com/): Ansys developer community and support discussions
+- [App catalog](https://developer.synopsys.com/app-catalog/catalog.md): Discover and publish Ansys-based applications
+- [GitHub](https://github.com/ansys): Open-source Ansys projects, including PyAnsys libraries
+
+
+
+
+## Apps
+
+
+### Ansys verified
+
+- [AM Process Parameters](https://developer.synopsys.com/app/ansys-inc/am-process-parameters/26-1-0.md)
+    
+    The AM Process Parameters™ (AMPP) application allows exploration of process parameters in the additive manufacturing technology of laser powder-bed fusion.
+- [AM Process Parameters](https://developer.synopsys.com/app/ansys-inc/am-process-parameters/25-2-0.md)
+    
+    The AM Process Parameters™ (AMPP) application allows exploration of process parameters in the additive manufacturing technology of laser powder-bed fusion.
+- [PyETK Electronic Transformer Toolkit](https://developer.synopsys.com/app/ansys-inc/pyetk-electronic-transformer-toolkit/0-4-1.md)
+    
+    Automatic Electronic Transformer Creation
+- [Export Toolbox ](https://developer.synopsys.com/app/ansys-inc/export-toolbox/26r1.md)
+    
+    Export Toolbox is a comprehensive post-processing application for Ansys Rocky that streamlines the export of simulation data through simple and advanced workflows.
+- [CFturbo](https://developer.synopsys.com/app/cfturbo-gmbh/cfturbo/2026-1.md)
+    
+    Set up a parametrized geometry for turbomachinery within Ansys Workbench and utilize it for automated workflows.
+- [CFturbo](https://developer.synopsys.com/app/cfturbo-gmbh/cfturbo/2026-2.md)
+    
+    Set up a parametrized geometry for turbomachinery within Ansys Workbench and utilize it for automated workflows.
+- [PyAEDT Antenna Toolkit](https://developer.synopsys.com/app/ansys-inc/pyaedt-antenna-toolkit/0-9-0.md)
+    
+    The PyAEDT Antenna Toolkit is a Python interface for accelerating antenna design with Ansys Electronics Desktop (AEDT)
+- [Radar Explorer Toolkit](https://developer.synopsys.com/app/ansys-inc/radar-explorer-toolkit/0-3-0.md)
+    
+    The Radar Explorer Toolkit integrates with AEDT to streamline the full lifecycle of radar cross section simulations, from geometry import through solver setup to interactive postprocessing all within a single graphical interface.
+- [Ansys Human Body Model](https://developer.synopsys.com/app/neva-electromagnetics/ansys-human-body-model/5.md)
+    
+    The Ansys Human Body Model (HBM) is a set of HFSS projects containing geometry and material proprieties that represent the human body.
+- [Layered Element Grouping](https://developer.synopsys.com/app/cybernet-systems-corporation/layered-element-grouping/2-6-1.md)
+    
+    An extension that allows you to group nodes or elements (generate named selections) by layer for solid elements that have been meshed in layers.
+- [AVZ Generator](https://developer.synopsys.com/app/cybernet-systems-corporation/avz-generator/1-5-4.md)
+    
+    An extension that allows you to configure a menu for outputting Ansys Viewer files (.avz) on the Mechanical GUI.
+- [Fillet R-Face Mesh Control](https://developer.synopsys.com/app/cybernet-systems-corporation/fillet-r-face-mesh-control/1-3-4.md)
+    
+    An extension that simplifies setting up mapped meshes on the R face of fillets.
+- [Gerotor Toolkit](https://developer.synopsys.com/app/ansys-inc/gerotor-toolkit/2024r2.md)
+    
+    Gerotor toolkit is a Fluent based automated solution for design and analysis of gerotor pumps
+- [ToffeeX - Discovery Plug-In](https://developer.synopsys.com/app/toffeex/toffeex-discovery-plug/1-07.md)
+    
+    Integrate ToffeeX into your Ansys Discovery workflow to streamline the design of optimized thermo-fluid systems.
+- [Academic Healthcare SimLab](https://developer.synopsys.com/app/ansys-inc/academic-healthcare-simlab/1-2.md)
+    
+    A web-based app using Dash and PyAnsys that teaches medical simulation by automating geometry, solver setup, and visualization for comparing analytical and simulation models interactively.
+- [Thermal-Electric Analysis Extension](https://developer.synopsys.com/app/cybernet-systems-corporation/thermal-electric-analysis-extension/1-3-1.md)
+    
+    This is an extension tool that allows you to set up menus for thermal-electric coupled analysis using SOLID69 on the Mechanical GUI.
+- [AM Process Parameters](https://developer.synopsys.com/app/ansys-inc/am-process-parameters/25-2-2.md)
+    
+    The AM Process Parameters™ (AMPP) application allows exploration of process parameters in the additive manufacturing technology of laser powder-bed fusion.
+- [Calibration Suite](https://developer.synopsys.com/app/ansys-inc/calibration-suite/26r1.md)
+    
+    Calibration Suite for Ansys Rocky that automates pre-processing, parametric control, and post-processing of standardized material calibration tests through ready-to-use decks and scripts.
+- [Coating Visibility Wizard](https://developer.synopsys.com/app/ansys-inc/coating-visibility-wizard/26r1.md)
+    
+    The Coating Visibility Wizard is a complete application that runs inside Rocky and enables you to quickly and easily define the spray nozzle parameters for your coating applications.
+- [Curve Creation and Manipulation Tool](https://developer.synopsys.com/app/ansys-inc/curve-creation-and-manipulation-tool/5-42.md)
+    
+    Standalone general-purpose program for creation, inspection and modification of curves.
+- [Material Storage](https://developer.synopsys.com/app/ansys-inc/material-storage/26r1.md)
+    
+    The Material Storage is a complete application that runs within Rocky and enables you to access and interact with a material repository.
+- [Material Wizard](https://developer.synopsys.com/app/ansys-inc/material-wizard/26r1.md)
+    
+    The Material Wizard is a complete application that runs inside Rocky and enables you to calibrate your material properties easier, faster, and more reliably.
+- [Material Storage](https://developer.synopsys.com/app/ansys-inc/material-storage/25r2.md)
+    
+    The Material Storage is a complete application that runs within Rocky and enables you to access and interact with a material repository.
+- [Material Wizard](https://developer.synopsys.com/app/ansys-inc/material-wizard/25r2.md)
+    
+    The Material Wizard is a complete application that runs inside Rocky and enables you to calibrate your material properties easier, faster, and more reliably.
+- [Calibration Suite](https://developer.synopsys.com/app/ansys-inc/calibration-suite/25r2.md)
+    
+    Calibration Suite for Ansys Rocky that automates pre-processing, parametric control, and post-processing of standardized material calibration tests through ready-to-use decks and scripts.
+- [Coating Visibility Wizard](https://developer.synopsys.com/app/ansys-inc/coating-visibility-wizard/25r2.md)
+    
+    The Coating Visibility Wizard is a complete application that runs inside Rocky and enables you to quickly and easily define the spray nozzle parameters for your coating applications.
+- [Closed Loop Motion](https://developer.synopsys.com/app/ansys-inc/closed-loop-motion/26r1.md)
+    
+    The Closed Loop Motion script is a complete application that runs within Rocky and enables you to define periodic motion with geometry replication easily.
+- [Endpoint - Insertion Torque](https://developer.synopsys.com/app/numalogics/endpoint-insertion-torque/2-0-52.md)
+    
+    Automated Workflow for virtual ASTM F543-A2 (Orthopaedic Screw Insertion Torque) with LS-Dyna
+- [Endpoint - Axial Pull-Out Strength](https://developer.synopsys.com/app/numalogics/endpoint-axial-pull-out-strength/2-0-52.md)
+    
+    Automated Workflow for virtual ASTM F543-A3 (Orthopaedic Screw Pull-Out Strength Prediction) with LS-Dyna
+- [ToffeeX - Discovery Plug-In](https://developer.synopsys.com/app/toffeex/toffeex-discovery-plug/1-06.md)
+    
+    Integrate ToffeeX into your Ansys Discovery workflow to streamline the design of optimized thermo-fluid systems.
+- [AM Process Parameters](https://developer.synopsys.com/app/ansys-inc/am-process-parameters/25-2-1.md)
+    
+    The AM Process Parameters™ (AMPP) application allows exploration of process parameters in the additive manufacturing technology of laser powder-bed fusion.
+- [WSL Platform Distribution](https://developer.synopsys.com/app/ansys-inc/wsl-platform-distribution/0-1-0.md)
+    
+    The WSL Platform Distribution package contains powershell scripts that automates the installation process of setting-up WSL, installing an Alpine Linux Distribution with docker and docker compose.
+- [CFturbo](https://developer.synopsys.com/app/cfturbo-gmbh/cfturbo/2025-1.md)
+    
+    Set up a parametrized geometry for turbomachinery within Ansys Workbench and utilize it for automated workflows.
+- [CFturbo](https://developer.synopsys.com/app/cfturbo-gmbh/cfturbo/2025-2.md)
+    
+    Set up a parametrized geometry for turbomachinery within Ansys Workbench and utilize it for automated workflows.
+- [CFD Mixing App](https://developer.synopsys.com/app/ansys-inc/cfd-mixing-app/2-0.md)
+    
+    An integrated application that automates the complete CFD workflow for stirred tank reactors: from geometry setup and meshing to simulation, post-processing, and performance analysis.
+- [Adaptive ISPG ACT for LS-DYNA](https://developer.synopsys.com/app/ansys-inc/adaptive-ispg-act-ls-dyna/2-6.md)
+    
+    Adaptive ISPG ACT Extension for LS-DYNA
+- [Gearbox](https://developer.synopsys.com/app/ansys-inc/gearbox/1-0.md)
+    
+    Automates and speeds up cooling and sloshing Gearbox simulations
+- [Academic Healthcare SimLab](https://developer.synopsys.com/app/ansys-inc/academic-healthcare-simlab/1-1.md)
+    
+    A web-based app using Dash and PyAnsys that teaches medical simulation by automating geometry, solver setup, and visualization for comparing analytical and simulation models interactively.
+- [Speos Sensor Tools &amp;amp; Standalone PCD Viewer](https://developer.synopsys.com/app/ansys-inc/speos-sensor-tools-standalone-pcd-viewer/2025-1.md)
+    
+    This app includes a collection of tools focusing on Speos sensor simulation and workflows, involving camera or LiDAR sensors.
+- [Material Variation](https://developer.synopsys.com/app/edr-medeso/material-variation/231-1.md)
+    
+    Specify a linear variation of material properties over a region of your geometry
+- [RecurDyn MBD for Ansys](https://developer.synopsys.com/app/functionbay/recurdyn-mbd-ansys/22-2.md)
+    
+    Simulate the nonlinear, dynamic behavior of a mechanical assembly in motion. Calculate loads for use in FEA, provide a plant for system analysis, and analyze the motion characteristics of your product.
+- [SDC Beam Member Check](https://developer.synopsys.com/app/sdc-verifier/sdc-beam-member-check/23-2.md)
+    
+    Enables beam buckling calculations in Ansys Mechanical according to AISC 1989 and 2010, API 2A-RP WSD and LRFD, ISO19902, Norsok N004 2013 and Eurocode 3 Members.
+- [SDC Beam Member and Joint Checks ](https://developer.synopsys.com/app/sdc-verifier/sdc-beam-member-and-joint-checks/23-2.md)
+    
+    Enables Beam Buckling Checks and Joint Checks for the large (offshore) lattice structures
+- [AISC Beam Member Check App](https://developer.synopsys.com/app/sdc-verifier/aisc-beam-member-check-app/23-2.md)
+    
+    AISC Beam Member Check App enables Beam Buckling Check.
+- [Averaged Results Extension](https://developer.synopsys.com/app/cybernet-systems-corporation/averaged-results-extension/3-4.md)
+    
+    This extension allows you to specify geometry and add a tree object to the Mechanical application that calculates the average of the results.
+- [Moving Heat Source Extension](https://developer.synopsys.com/app/cybernet-systems-corporation/moving-heat-source-extension/4-2.md)
+    
+    Extension to simulate the phenomenon of a heat source moving, such as in arc welding.
+- [Modal Assurance Criterion Extension](https://developer.synopsys.com/app/cybernet-systems-corporation/modal-assurance-criterion-extension/3-3.md)
+    
+    Extension tool that calculates the MAC value, which expresses the correlation between modes, based on the results of two modal analyses.
+- [Welding Distortion](https://developer.synopsys.com/app/ansys-inc/welding-distortion/1-1.md)
+    
+    Predict distortion in metal components connected by welding toes.
+- [SDC Reporting](https://developer.synopsys.com/app/sdc-verifier/sdc-reporting/23-2.md)
+    
+    SDC Verifier module for the report generation for Ansys Mechanical.
+- [SDC Weld Strength](https://developer.synopsys.com/app/sdc-verifier/sdc-weld-strength/23-2.md)
+    
+    SDC Verifier module which enables weld strength calculations in Ansys Mechanical
+- [SDC Plate &amp;amp; Stiffener Buckling](https://developer.synopsys.com/app/sdc-verifier/sdc-plate-stiffener-buckling/23-2.md)
+    
+    SDC Verifier app which enables plate and stiffener buckling calculations in Ansys Mechanical
+- [Speos Light Simulation Tools](https://developer.synopsys.com/app/ansys-inc/speos-light-simulation-tools/2023-2.md)
+    
+    This App includes tools to ease workflows around Speos simulations. Tools are related to regulations: - CIE 188 2010 report from headlamp intensity distributions; - C-NCAP report from headlamp intensity distributions
+- [SDC Eurocode3](https://developer.synopsys.com/app/sdc-verifier/sdc-eurocode3/23-2.md)
+    
+    SDC Eurocode 3 Beam Member App enables Beam Buckling Check according to EC3.
+- [Follower Loads](https://developer.synopsys.com/app/ansys-inc/follower-loads/8-1.md)
+    
+    Create follower forces and moments to follow geometric deformation.
+- [SMART Crack Growth Advanced Pre\_Postprocessing](https://developer.synopsys.com/app/ansys-inc/smart-crack-growth-advanced-prepostprocessing/1.md)
+    
+    The app provides easy access to some of SMARTs advanced capabilities and streamlines detailed postprocessing, including the capability of creating a 3D plot showing all crack fronts of all crack growth increments at once and marking the max SIF location
+- [Speos Integration for System Coupling](https://developer.synopsys.com/app/ansys-inc/speos-integration-system-coupling/1-2.md)
+    
+    This application enables the usage of Speos simulation in the System Coupling environment.
+- [Aoil Stiffness](https://developer.synopsys.com/app/edr-medeso/aoil-stiffness/231-1.md)
+    
+    Ansys Mechanical pre-processing tool to apply a non-linear soil stiffness boundary condition with friction on the structure.
+- [Gerotor Toolkit](https://developer.synopsys.com/app/ansys-inc/gerotor-toolkit/1.md)
+    
+    Gerotor toolkit is a Fluent based automated solution for design and analysis of gerotor pumps
+- [Neural Networks Package](https://developer.synopsys.com/app/ansys-inc/neural-networks-package/1.md)
+    
+    The Neural Networks Package for Embedded Software provides a framework for implementing embedded software based on neural networks using Ansys SCADE. The package allows to import a trained network into SCADE, using a library of common layers
+- [Electrification Package](https://developer.synopsys.com/app/ansys-inc/electrification-package/2.md)
+    
+    The Electrification Package for Embedded Software provides a framework for implementing the monitoring and control software of electrified systems with Ansys SCADE.
+- [Welding Toolbox](https://developer.synopsys.com/app/ansys-inc/welding-toolbox/2.md)
+    
+    The objective of this App is to automate the set up creation to simulate the welding process in ANSYS Mechanical in order to predict welding distortion
+- [Thermal Cut](https://developer.synopsys.com/app/ansys-inc/thermal-cut/1-1.md)
+    
+    This wizard allows predicting distortion in components during and after a thermal cut process.
+- [Initial Deformation](https://developer.synopsys.com/app/edr-medeso/initial-deformation/201-4.md)
+    
+    Include initial deformations in a simulation by scaling result sets from other linked analyses.
+- [Initial Deformation](https://developer.synopsys.com/app/edr-medeso/initial-deformation/231-1.md)
+    
+    Include initial deformations in a simulation by scaling result sets from other linked analyses.
+- [CSV Plot](https://developer.synopsys.com/app/edr-medeso/csv-plot/231-1.md)
+    
+    Postprocessing tool for creating custom nodal or element contour plots.
+- [Figures Manager](https://developer.synopsys.com/app/designtec-sro/figures-manager/3-4.md)
+    
+    Extension designed for bulk Figures management, image properties editing and export.
+- [Flatness Defect](https://developer.synopsys.com/app/phimeca/flatness-defect/1-1.md)
+    
+    Computes the flatness defect of a surface selected in Ansys Mechanical.
+- [Density Scaling](https://developer.synopsys.com/app/edr-medeso/density-scaling/231-1.md)
+    
+    Scale the density of selected bodies at the environment level.
+- [Export Figures](https://developer.synopsys.com/app/edr-medeso/export-figures/231-1.md)
+    
+    Utility for exporting all defined figures in the model tree.
+- [CYBERNET Toolbox](https://developer.synopsys.com/app/cybernet-systems-corporation/cybernet-toolbox/231.md)
+    
+    CYBERNET Toolbox is a customized tool that makes Ansys Workbench more convenient to use.
+- [Fatigue Scanning](https://developer.synopsys.com/app/edr-medeso/fatigue-scanning/231-1.md)
+    
+    Postprocessing tool for evaluating maximum stress or strain range from a selected range of solution steps or a solution combination.
+- [CFturbo](https://developer.synopsys.com/app/cfturbo-gmbh/cfturbo/2023-1.md)
+    
+    Set up a parametrized geometry for turbomachinery within Ansys Workbench and utilize it for automated workflows.
+- [CFturbo](https://developer.synopsys.com/app/cfturbo-gmbh/cfturbo/2024-1.md)
+    
+    Set up a parametrized geometry for turbomachinery within Ansys Workbench and utilize it for automated workflows.
+- [GOM Interface](https://developer.synopsys.com/app/cadfem/gom-interface/2023-2.md)
+    
+    Facilitates the comparison of displacement, strain, and temperature fields obtained from numerical simulations and experiments in Ansys Mechanical.
+- [Rayteng Tools](https://developer.synopsys.com/app/rayteng-creative-co/rayteng-tools/1.md)
+    
+    Rayteng Tools contains several tools (four of which are free for trial) for making SPEOS usage more convenient and improving your work efficiency. Contact us to get the full version of these tools.
+- [ASME Material Generator](https://developer.synopsys.com/app/edr-medeso/asme-material-generator/201-3.md)
+    
+    Creates a stress strain curve.
+- [AISC\_ACI-EuroCodes Check &amp;amp; Design](https://developer.synopsys.com/app/ingeciber-sa/aiscaci-eurocodes-check-design/2023.md)
+    
+    The CivilFEM app enables you to check and design your Ansys Workbench models according to various international standard codes of structural steel and reinforced concrete.
+- [Arbitrary Data Results Display Extension](https://developer.synopsys.com/app/cybernet-systems-corporation/arbitrary-data-results-display-extension/2-6.md)
+    
+    Displays the arbitrary data results stored in an external text file in Ansys Mechanical.
+- [SKF Bearing](https://developer.synopsys.com/app/skf/skf-bearing/1-4.md)
+    
+    Easily create rolling bearing models to accurately represent bearing stiffness. Get direct access to SKFs catalogue assortment of approximately 10000 bearing designations.
+- [SKF Bearing](https://developer.synopsys.com/app/skf/skf-bearing/1-6.md)
+    
+    Easily create rolling bearing models to accurately represent bearing stiffness. Get direct access to SKFs catalogue assortment of approximately 10000 bearing designations.
+- [AVXcelerate LiDAR Point-Cloud Viewer](https://developer.synopsys.com/app/ansys-inc/avxcelerate-lidar-point-cloud-viewer/1.md)
+    
+    Light weight point-cloud viewer usable with LiDAR point-cloud.
+ 
+
+
+### Unverified
+
+- [7t Fast+More](https://developer.synopsys.com/app/7tech/7t-fastmore/3-1.md)
+    
+    The App models Fasteners like Bolts, Screws and Rivets with just a few clicks - even hundreds of them in complex FEA models. It streamlines Pre- and Postprocessing and provides enormous time savings when handling Fasteners.
+- [Compressive Support Settings CSS](https://developer.synopsys.com/app/ges/compressive-support-settings-css/2.md)
+    
+    A powerful tool that provides an alternative to Ansys WB’s built-in compressive support boundary condition
+- [Hot Keys Customizer](https://developer.synopsys.com/app/ansys-inc/hot-keys-customizer/1.md)
+    
+    Allow a user to assign their preferred hot keys (keyboard shortcuts) to custom scripted actions [Contains source code]
+- [Deformation Fixation Extension](https://developer.synopsys.com/app/cybernet-systems-corporation/deformation-fixation-extension/1-5.md)
+    
+    This extension allows you to fix the object at the position of the deformation that occurred during the analysis.
+- [SpaceClaimXL](https://developer.synopsys.com/app/ansys-inc/spaceclaimxl/1.md)
+    
+    Allows the user to import a large assembly into SpaceClaimXL. You can view the assembly, search and select any sub-component to &quot;move&quot; into SpaceClaim.
+- [Extrapolate Results](https://developer.synopsys.com/app/ansys-inc/extrapolate-results/2020-2.md)
+    
+    This app facilitates users to extrapolate the results to corner nodes of the element. This will be extremely useful when the user needs result quantities on the exterior surface of the model or a nodal component.
+- [NLDIAG](https://developer.synopsys.com/app/ansys-inc/nldiag/2.md)
+    
+    Expose the nonlinear diagnostics (NLDIAG) functionality in Mechanical to identify or display the highly distorted elements.
+- [Focal length distribution extractor with Zemax for AVX Camera](https://developer.synopsys.com/app/ansys-inc/focal-length-distribution-extractor-zemax-avx-camera/1.md)
+    
+    AVX_EFLvsWAVL.ZPL macro automates the focal length distribution extraction in ANSYS Zemax OpticStudio for feeding the AVxcelerate Camera model.
+- [Mechanical Custom Interface](https://developer.synopsys.com/app/ansys-inc/mechanical-custom-interface/1.md)
+    
+    Work in conjunction with the app Hot Keys Customizer to introduce custom and more efficient workflows for Ansys Mechanical [Contains source code]
+- [View Controls](https://developer.synopsys.com/app/taesung-se/view-controls/1.md)
+    
+    Control easily rotating angle and model view and print title on the screen in Mechanical
+- [Inertial Cones](https://developer.synopsys.com/app/simutech-group/inertial-cones/1.md)
+    
+    Creates a graphical object that displays the inertia properties of the current FEM
+- [Selecting Nodes Toolkit](https://developer.synopsys.com/app/softautotech-inc/selecting-nodes-toolkit/1-1.md)
+    
+    This app enables selecting nodes in the numerical analysis based on different geometries such as rectangular prism, sphere, cylinder cone, torus and ellipsoid shapes.
+- [Pan\_Zoom\_Rotate Dialog](https://developer.synopsys.com/app/ansys-inc/panzoomrotate-dialog/4.md)
+    
+    Provide a dialog box with view controls for the Mechanical graphics window. The controls allow for Pan, Zoom and Rotate in a style similar to the controls available in the Mechanical APDL interface
+- [Spiderweb](https://developer.synopsys.com/app/infinite-simulation-systems/spiderweb/1.md)
+    
+    Create a Spiderweb of Link, Spring, Beam, Rigid, Non-LinSprings.
+- [Vertex By Coord Extension](https://developer.synopsys.com/app/cybernet-systems-corporation/vertex-coord-extension/1-5.md)
+    
+    This tool allows you to create vertices on a geometry surface by entering the coordinates of the point where you want to create the vertex.
+- [Tangential Varying Pressure](https://developer.synopsys.com/app/simutech-group/tangential-varying-pressure/2.md)
+    
+    Create an object to be able to apply a spatially varying tangential pressure.
+- [LimitState:FORM](https://developer.synopsys.com/app/limitstate/limitstateform/3-5.md)
+    
+    Optimization tool for designing strong, light components, particularly those suitable for additive manufacturing (3D printing). Provide a bridge between LimitState:FORM and Ansys Mechanical, allowing one-click FE analysis of a LimitState:FORM design.
+- [Compressive Only Support](https://developer.synopsys.com/app/ges/compressive-only-support/1.md)
+    
+    Apply a contact compressive only support with possibility to change contact settings (keyopts and real constants).
+- [Ship Component Selection](https://developer.synopsys.com/app/ges/ship-component-selection/1.md)
+    
+    An advanced tool to automatically create the main components of a ship’s structure from FE mesh (NOT geometry) directly in the Ansys WB environment.
+- [Parametric Curves](https://developer.synopsys.com/app/leap-australia/parametric-curves/2.md)
+    
+    Create curves using parametric equations. Any valid Python equation or function can be used to generate parametric curves, with the ability to mark up to 50 independent coefficients as Workbench parameters.
+- [Internal Layer](https://developer.synopsys.com/app/oosoft/internal-layer/1-1.md)
+    
+    Changes the material assignment of a layer of elements given a user-defined thickness that characterizes this layer.
+- [Light Source Initialization Extension](https://developer.synopsys.com/app/cybernet-systems-corporation/light-source-initialization-extension/1-5.md)
+    
+    This tool makes it possible to change and save light source settings for all analysis systems in a project at once.
+- [NHTSA - FMVSS 111 Rearview image testing](https://developer.synopsys.com/app/ansys-inc/nhtsa-fmvss-111-rearview-image-testing/1.md)
+    
+    This App allows you to use the Ansys SPEOS OST camera sensor to validate automotive rearview image against the Federal Motor Vehicle Safety Standard 111 (FMVSS111) of the National Highway Traffic Safety Administration (NHTSA).
+- [OASIS-Ansys Plugin](https://developer.synopsys.com/app/empower-operations/oasis-ansys-plugin/1.md)
+    
+    Allow a direct connection between Ansys Workbench and OASIS, a powerful design exploration and optimization tool that can accelerate your design process. The plugin allows for simple setup of optimizations with your Workbench models.
+- [MinervaImporter](https://developer.synopsys.com/app/ansys-inc/minervaimporter/2022-1.md)
+    
+    This app allows you to preview and import files from Ansys Minerva directly into Ansys Mechanical, from the Mechanical GUI.
+- [Japanese GUI Installer for Mechanical APDL](https://developer.synopsys.com/app/cybernet-systems-corporation/japanese-gui-installer-mechanical-apdl/22-2.md)
+    
+    Japanese GUI Installer is an installer of Japanese GUI and message text files for Mechanical APDL.
+- [Topographic STL Maker](https://developer.synopsys.com/app/ansys-inc/topographic-stl-maker/3.md)
+    
+    Automatically output three dimensional topographic maps in an STL file format. SRTM data are used to create the maps
+- [Virtual.PYXIS](https://developer.synopsys.com/app/esss/virtualpyxis/1-2.md)
+    
+    Topology optimization to create innovative components with minimum weight, maximum stiffness or maximum vibration frequency (optimization solver not included)
+- [Match Control Check](https://developer.synopsys.com/app/ansys-inc/match-control-check/1-4.md)
+    
+    Highlight topology problems of match control and cyclic symmetry controls. Will select problematic entities from both sides (hanging edges, vertices, etc...)
+- [Rotate View](https://developer.synopsys.com/app/ansys-inc/rotate-view/2.md)
+    
+    Allow to rotate the model about any of the 3 screen axes by a specified angle for precise viewing of the model in a specified orientation. Useful for re-orienting views such as an axisymmetric model in which the user desires the X axis to point upward
+- [Contact Step Control Table](https://developer.synopsys.com/app/cybernet-systems-corporation/contact-step-control-table/2021-1.md)
+    
+    This tool enables the user to edit the &quot;enable&quot;/&quot;disable&quot; setting of the contact step control and display it in a table using spreadsheet software such as Excel.
+- [Selection Toolbar](https://developer.synopsys.com/app/ansys-inc/selection-toolbar/4.md)
+    
+    Provide several facilities to create or manipulate selections in Mechanical. [Contains source code]
+- [Step Skewed Motor Creation](https://developer.synopsys.com/app/ansys-inc/step-skewed-motor-creation/1.md)
+    
+    Allow to automatically create a 3D step-skewed electrical machine. One can set either same skew angles and height for each slice or use equal parameters for each slice. Only need is 2D Maxwell Design and to fill the parameters of future machine
+- [Convection Links](https://developer.synopsys.com/app/enginsoft/convection-links/1.md)
+    
+    Allow thermal exchange between nodal surfaces via convective links
+- [Toshiba Library](https://developer.synopsys.com/app/ansys-inc/toshiba-library/1.md)
+    
+    Twin Builder component library of Toshiba devices
+- [Save\_DB](https://developer.synopsys.com/app/padt/savedb/1.md)
+    
+    SAVE_DB allows you to save the MAPDL database file without having to solve the Mechanical model, or cause a resolve. Just click the icon and the DB file is saved to the solver directory.
+- [Impact Velocity](https://developer.synopsys.com/app/ansys-inc/impact-velocity/1.md)
+    
+    Calculate the impact velocity for a transient structural simulation. The impact is based on the contact interaction between two or more bodies/parts
+- [Spreadsheet Based Load Case Combination](https://developer.synopsys.com/app/ansys-inc/spreadsheet-based-load-case-combination/1-1.md)
+    
+    Supplement the existing Mechanical feature of\&quot;Solution Combination\&quot; by offering spreadsheet based load case combination
+- [SC TFD](https://developer.synopsys.com/app/ansys-inc/sc-tfd/1.md)
+    
+    Create bend data table for 3D Pipes. Tables for Drawings and/or for Export to Files.
+- [Gradient Extension](https://developer.synopsys.com/app/stilog-inc/gradient-extension/1-1.md)
+    
+    The application is a post-treatment based ACT extension designed for Mechanical. It is compatible with all versions of Ansys Workbench from V2019R2 to V2021R1.
+- [Update Email](https://developer.synopsys.com/app/ansys-inc/update-email/2.md)
+    
+    Enable Ansys Workbench to automatically send emails after completing updates of components/systems/design points in Workbench projects.
+- [CadToPost](https://developer.synopsys.com/app/ansys-inc/cadtopost/3.md)
+    
+    Allows Workbench users to easily import CAD into the CFDPost application.
+- [DOE from Correlation](https://developer.synopsys.com/app/ansys-inc/doe-correlation/1.md)
+    
+    Use parameters correlation results to create the DOE for a Response Surface Optimization and automatically deactivate minor parameters with the ability to reuse Design Point values.
+- [Installer for Twin Builder Heating and Cooling Library](https://developer.synopsys.com/app/ansys-inc/installer-twin-builder-heating-and-cooling-library/1-1.md)
+    
+    The installer to install the commercial Twin Builder Heating and Cooling libraries (compatible with Twin Builder 2018.2) onto user’s machine. Includes Liquid Cooling library, Vapor Cycle library, Heat Exchanger and Modelon Base libraries.
+- [MATLAB Optimizers for DX](https://developer.synopsys.com/app/ansys-inc/matlab-optimizers-dx/3-8.md)
+    
+    Expose MATLAB optimization algorithms and user programs in the Optimization component of Ansys DesignXplorer [Contains source code]
+- [Prestressed Show Deformed Mesh](https://developer.synopsys.com/app/ansys-inc/prestressed-show-deformed-mesh/2.md)
+    
+    Show the deformed mesh in downstream prestressed analyses
+- [External CAD Bridge](https://developer.synopsys.com/app/ansys-inc/external-cad-bridge/2.md)
+    
+    Demonstrate how to create an application that integrates parametric study for non-Ansys CAD Modeling programs [Contains source code]
+- [Linear Buckling](https://developer.synopsys.com/app/ansys-inc/linear-buckling/1.md)
+    
+    Guided Simulation to select a geometry on which to perform a Linear Buckling analysis. Calculate the Euler Buckling Load [Contains source code]
+- [Import Parameters and DOE](https://developer.synopsys.com/app/ansys-inc/import-parameters-and-doe/2.md)
+    
+    Apply wind loading on solid/shell/beam geometry per API 4F guideline [Contains source code]
+- [Modal Profile Export](https://developer.synopsys.com/app/ansys-inc/modal-profile-export/1.md)
+    
+    Apply wind loading on solid/shell/beam geometry per API 4F guideline [Contains source code]
+- [Parameter Sweep](https://developer.synopsys.com/app/ansys-inc/parameter-sweep/3.md)
+    
+    Create design points by sweeping parameter values
+- [Full Factorial DOE](https://developer.synopsys.com/app/ansys-inc/full-factorial-doe/1.md)
+    
+    Expose a new DOE type in Ansys DesignXplorer: Full Factorial, supporting up to 10 input parameters, to generate all combinations of parameter levels.
+- [Thermal Output](https://developer.synopsys.com/app/ansys-inc/thermal-output/4-1.md)
+    
+    Easily calculate an average temperature or a surface thermal power output in a thermal analysis
+- [Generating Sections Toolkit](https://developer.synopsys.com/app/softautotech-inc/generating-sections-toolkit/2-1.md)
+    
+    This app enables generating Multiple linear and circumferential sections in the numerical model using Cartesian and Cylindrical coordinate systems automatically.
+- [Heat Balance](https://developer.synopsys.com/app/ansys-inc/heat-balance/1-1.md)
+    
+    Creates Heat Probes for BCs and Contacts, and Export Results and Heat Balance in an Excel File located in the user_files directory
+- [Time Dependent Hydrostatic Pressure](https://developer.synopsys.com/app/simutech-group/time-dependent-hydrostatic-pressure/2.md)
+    
+    Create an object to be able to apply (and visualize) a time dependent hydrostatic pressure
+- [Hot Keys](https://developer.synopsys.com/app/ansys-inc/hot-keys/1-1.md)
+    
+    Expose additional graphics action Hotkeys in Mechanical (and Meshing) application for quick access to some common tasks
+- [Temp Dep Allow Stress](https://developer.synopsys.com/app/infinite-simulation-systems/temp-dep-allow-stress/2.md)
+    
+    Calculate the stress safety based on a temperature dependent allowable stress values
+- [Vacuum Thermal Modeling](https://developer.synopsys.com/app/ansys-inc/vacuum-thermal-modeling/1.md)
+    
+    This Wizard helps setup a vacuum thermal model with Icepak in AEDT.
+- [General Contact Extension](https://developer.synopsys.com/app/cybernet-systems-corporation/general-contact-extension/2021-2.md)
+    
+    This extension makes it easy to configure general contact features that were previously only available in Mechanical APDL on Workbench Mechanical.
+- [Material Properties Change Extension](https://developer.synopsys.com/app/cybernet-systems-corporation/material-properties-change-extension/2-6.md)
+    
+    The ability to change material properties between load steps during analysis (MPCHG command) can be easily set up in Mechanical.
+- [XY-Plotter inside Ansys](https://developer.synopsys.com/app/cadfem/xy-plotter-inside-ansys/1-1.md)
+    
+    Provides an easy-to-use way for visualization and processing of x-y-data. It covers preprocessing functionality, like creating force-, displacement- or velocity-profiles
+- [7t Trajectory](https://developer.synopsys.com/app/7tech/7t-trajectory/1.md)
+    
+    Draw 3D Trajectories of vertices or nodes in graphic window, draw diagrams of path length, velocity or acceleration and export csv file with result values
+- [EKILL/EALIVE](https://developer.synopsys.com/app/ansys-inc/ekillealive/3.md)
+    
+    Expose element birth and death functionality to deactivate and reactivate bodies or contacts during structural analysis in Mechanical
+- [Thermal Sensor Extension](https://developer.synopsys.com/app/cybernet-systems-corporation/thermal-sensor-extension/2-6.md)
+    
+    With this extension, the Ansys temperature sensor function (COMBIN37 element for turning on/off incoming heat) can be easily configured on Mechanical.
+- [Better Material](https://developer.synopsys.com/app/cadmen/better-material/1.md)
+    
+    Expose mechanical-based material types as parameters inside Ansys Workbench.
+- [Porous Zone Calculator](https://developer.synopsys.com/app/anova/porous-zone-calculator/1.md)
+    
+    Calculate flow through a variety of porous models. Easily compute permeability and inertial resistance coefficients by providing velocity and pressure drop profiles from a .csv file.
+- [Legend Style Toolkit](https://developer.synopsys.com/app/softautotech-inc/legend-style-toolkit/1-1.md)
+    
+    Enables applying user legend style to multiple result contours automatically and reducing time required for adjusting contours significantly. Also, this app enables making the contours consistent.
+- [Legend Controller](https://developer.synopsys.com/app/cybernet-systems-corporation/legend-controller/1-5.md)
+    
+    This is an extension that extracts the contour legend in Mechanical&#039;s results display onto a dialog, allowing changes to values and settings to be made at once.
+- [Probe Extension](https://developer.synopsys.com/app/stilog-inc/probe-extension/1-1.md)
+    
+    The application is a post-treatment based ACT extension designed for Mechanical.
+- [Automatic Applying Scope Toolkit](https://developer.synopsys.com/app/softautotech-inc/automatic-applying-scope-toolkit/1-1.md)
+    
+    Enables applying scope (i.e., solids, faces, edges or vertexes) automatically to multiple solutions, therefore, reduces time required for preparing numerical model significantly
+- [Ansys Workbench SwiftComp GUI](https://developer.synopsys.com/app/analyswift/ansys-workbench-swiftcomp-gui/1.md)
+    
+    Plugin to power Ansys with efficient high-fidelity multiscale, multiphysics modeling for composites. It assures the best models at a given level of efficiency in any scale the user chooses, linking micromechanics and structural analysis.
+- [Extended Probe](https://developer.synopsys.com/app/esss/extended-probe/1-1.md)
+    
+    Inspect deformed positions, angles and distances between nodes
+- [Multiscale Analysis System](https://developer.synopsys.com/app/cybernet-systems-corporation/multiscale-analysis-system/2-2.md)
+    
+    Evaluate anisotropic material constants for non-homogeneous material which is Lattice structure, Composite Honeycomb and so on
+- [Energy Plot](https://developer.synopsys.com/app/designtec-sro/energy-plot/2-1.md)
+    
+    allows to evaluate the time history of the energies like stiffness energy, kinetic energy and damping energy
+- [Add Images](https://developer.synopsys.com/app/infinite-simulation-systems/add-images/2.md)
+    
+    Automatically add/remove images/figures to the outline tree. Also support the views that are created via the View Manager or use 3d mouse to orient the model before taking the image/figure
+- [CAESES Geometry Engine](https://developer.synopsys.com/app/friendship-systems/caeses-geometry-engine/3.md)
+    
+    This app allows you to use CAESES geometry models for shape optimization with Ansys tools. Meshing and simulation of CAESES models can be completely automated. CAESES focuses on parametric complex shapes.
+- [Results2ASCII](https://developer.synopsys.com/app/enginsoft/results2ascii/1.md)
+    
+    Export results into ASCII format. Files txt are generated including all wanted results organized in columns
+- [Beam to Link](https://developer.synopsys.com/app/leap-australia/beam-link/4.md)
+    
+    App to convert line bodies defined in Workbench to cables, trusses or compression only elements using link180 elements
+- [AutoProfile](https://developer.synopsys.com/app/cadmen/autoprofile/1.md)
+    
+    Convert .csv file to Fluent profile setting to check time dependent condition graphically in this wizard and set it as Fluent profile
+- [RADARpost](https://developer.synopsys.com/app/ansys-inc/radarpost/1-7.md)
+    
+    Post-processing reports for radar signature simulations in Ansys Electronics Desktop.
+- [MultiStep Parametric Loads](https://developer.synopsys.com/app/enginsoft/multistep-parametric-loads/2.md)
+    
+    Expose new parametric structural loads for multistep analyses (incl. transient). Supported loads include Force, Pressure, Moment, and Displacement.
+- [Selection On Results](https://developer.synopsys.com/app/infinite-simulation-systems/selection-results/2.md)
+    
+    Select Bodies/Nodes/Elements based on results (e.g. VonMises stresses)
+- [Advanced Enclosure](https://developer.synopsys.com/app/simulabs/advanced-enclosure/8.md)
+    
+    Create fluid enclosure and decompose it to sweepable bodies
+- [License Reporter](https://developer.synopsys.com/app/ansys-inc/license-reporter/3.md)
+    
+    Visualize a summary of current license usage information of users organization.
+- [General Axisymmetric Converter](https://developer.synopsys.com/app/ansys-inc/general-axisymmetric-converter/1.md)
+    
+    Convert 2D geometry to 3D general axisymmetric elements (geometric axisymmetry with non-axisymmetric loading). See APDL element 272 /273 for features. Introduce custom constraint for rigid constraint equations for working with new axisymmetric sections.
+- [Ansys Motion](https://developer.synopsys.com/app/ansys-inc/ansys-motion/2020-2.md)
+    
+    An integration of the Ansys Motion solver technology into the Ansys Mechanical GUI. Compatible with Ansys 2020 R2. Provides the power of the Ansys Workbench and Mechanical Environments to facilitate the preprocessing of Ansys Motion models.
+- [RADARpre](https://developer.synopsys.com/app/ansys-inc/radarpre/1-4.md)
+    
+    Automate analysis setup for simulation of radar Range Profiles, Waterfall plots and Inverse Synthetic Aperture (ISAR) images in the Ansys Electronics Desktop.
+- [CAD Cleanup Tool](https://developer.synopsys.com/app/ansys-inc/cad-cleanup-tool/3.md)
+    
+    Streamline the conversion of CAD data to Ansys Icepak objects using Ansys DesignModeler. Easy to use GUIs can help you remove unwanted bodies, get rid of holes, and simplify geometry for analysis.
+- [LSP Model Convertor](https://developer.synopsys.com/app/ansys-inc/lsp-model-convertor/2021-1.md)
+    
+    LSP Model Convertor is an act extension wizard. It can convert external model type from abaqus, radioss, nastran, ideas, pamcrash and fluent_msh file to LS-Dyna keyword format via LS_PrePost.
+- [Function Loading](https://developer.synopsys.com/app/infinite-simulation-systems/function-loading/v3.md)
+    
+    Apply a load based on a user-defined input function that can contain multiple spatial variables. Support a variable pressure, variable line pressure and a variable heat flux.
+- [Mesh Generation Toolkit](https://developer.synopsys.com/app/softautotech-inc/mesh-generation-toolkit/2-1.md)
+    
+    This app enhances mesh generation capability and provides different new options for generating a good quality mesh in ANSYS Mechanical by applying a uniform mesh within a volume.
+- [Hydrostatic Fluid](https://developer.synopsys.com/app/ansys-inc/hydrostatic-fluid/202-1.md)
+    
+    Expose hydrostatic fluid elements in Mechanical
+- [LST\_PrePost](https://developer.synopsys.com/app/ansys-inc/lstprepost/2022-2.md)
+    
+    This Application will allow LS-Dyna user launch LS-PrePost for postprocessing within Ansys Workbench using project schematic. It also build LST_LSPP toolbar in Mechanical which are includes 6 icons(run features of LS-PrePost at Mechanical).
+- [Pressure Vessels Automatic Path Creation](https://developer.synopsys.com/app/ansys-inc/pressure-vessels-automatic-path-creation/1.md)
+    
+    Automate the creation of paths &amp;amp; linearized stress results to meet pressure vessels standards
+- [Honeycomb Creator](https://developer.synopsys.com/app/ansys-inc/honeycomb-creator/2.md)
+    
+    Easily create honeycomb core models from a few simple cell properties and bulk size specifications. [Contains source code]
+- [Linearized Stresses](https://developer.synopsys.com/app/ansys-inc/linearized-stresses/201.md)
+    
+    Customized result object for efficient post-processing of linearized stress results. Define paths while reviewing stress results. Auto scope to paths. Multiple paths in a single result object. Export to Excel. Ignore or include through thickness bending.
+- [Tire Simulation](https://developer.synopsys.com/app/ansys-inc/tire-simulation/2022-1.md)
+    
+    Set up a 2D axisymmetric tire model in the Mechanical. Perform 2D analyses, Map2dto3d and further 3D analyses like Footprint and Steady State Rolling etc., however everything in a 2D static structural analysis system.
+- [Reaction Forces](https://developer.synopsys.com/app/oosoft/reaction-forces/3-1.md)
+    
+    Create Probes for BCs, Contacts, Beams, Springs and Joints and Export Results in an Excel File located in the user_files directory
+- [Workbench LS-DYNA](https://developer.synopsys.com/app/ansys-inc/workbench-ls-dyna/18.md)
+    
+    Fully integrated access to Ansys LS-DYNA with all the power of Workbench through the Mechanical GUI
+- [Automatic Shape Optimization](https://developer.synopsys.com/app/ansys-inc/automatic-shape-optimization/3.md)
+    
+    This app automates shape optimization process. You cannot only use multi-objective or multi-condition optimization but new method combining DesignXplorer and Adjoint Solver.
+- [Random Vibration Added Capabilities](https://developer.synopsys.com/app/ansys-inc/random-vibration-added-capabilities/4.md)
+    
+    Expose additional capabilities for random vibrations analysis or Power Spectral Density analysis (PSD). Make possible to apply a Pressure or Force PSD to a random vibration analysis. Enable the post processing of several nodes or elements at once.
+- [Command Obj to ACT](https://developer.synopsys.com/app/ansys-inc/command-obj-act/2.md)
+    
+    Easily convert your APDL command objects / snippets into working ACT extensions. Make it easy to create your own custom apps with your own specific APDL code [Contains source code]
+- [FE Info](https://developer.synopsys.com/app/ansys-inc/fe-info/10-2.md)
+    
+    Expose node and element related information, such as element number, node number, nodal coordinates etc...
+- [SC Toolbox for SpaceClaim](https://developer.synopsys.com/app/ansys-inc/sc-toolbox-spaceclaim/1.md)
+    
+    Create Standard Geometries of Fastners and Shapes from existing Library.
+- [Convection](https://developer.synopsys.com/app/ansys-inc/convection/21-1.md)
+    
+    Expose convection with pilot node capability in steady-state and transient thermal analyses.
+- [Spiral Coil Creator](https://developer.synopsys.com/app/ansys-inc/spiral-coil-creator/3.md)
+    
+    Guided process to easily create parametric planar, simple or 3D complex Coils
+- [Shock Load Profile](https://developer.synopsys.com/app/compute-labs/shock-load-profile/3.md)
+    
+    &quot;Shock Load Profile&quot; is an ACT application that allows ANSYS Mechanical users to define shock load as an acceleration-time data.
+- [Iterative Meshing](https://developer.synopsys.com/app/ansys-inc/iterative-meshing/3.md)
+    
+    Allow to perform multiple trials in mesh generation and auto-select the best mesh from those
+- [Custom Update](https://developer.synopsys.com/app/ansys-inc/custom-update/3.md)
+    
+    Facilitate to automatically export various data during the �Update� process for a Component/System/Project and Design Point
+- [nCode Fatigue Result](https://developer.synopsys.com/app/ansys-inc/ncode-fatigue-result/1.md)
+    
+    Display results from nCode in Mechanical [Contains source code]
+- [Coupled Field Physics](https://developer.synopsys.com/app/ansys-inc/coupled-field-physics/1-2.md)
+    
+    Expose piezoelectric, thermal-piezoelectric and thermal-structural solver capabilities
+- [Restart Analysis](https://developer.synopsys.com/app/cae-associates/restart-analysis/3.md)
+    
+    Enable the capability to allow for a restart analysis to be performed from a previously solved linked analysis system
+- [User Programmable Features](https://developer.synopsys.com/app/ansys-inc/user-programmable-features/4.md)
+    
+    Allow for the use of User Programmable Features (UPF) within Workbench [Contains source code]
+- [SpaceClaim CAD Cleanup](https://developer.synopsys.com/app/ansys-inc/spaceclaim-cad-cleanup/1.md)
+    
+    Automate the CAD cleanup process for general applications and offers model preparation and simplification for Icepak, it exports material properties (if available) for a thermal simulation
+- [Bodies or Instances Converter](https://developer.synopsys.com/app/ansys-inc/bodies-or-instances-converter/2.md)
+    
+    Simplify repetitive multi-body adjustments by easily defining group and layer instances of similar yet independent solid bodies (e.g., bolts, screws, washers, ...)
+- [GearboxFlow](https://developer.synopsys.com/app/ansys-inc/gearboxflow/1-4.md)
+    
+    Automates model creation for gearbox simulations
+- [Thermo-Mechanical Fatigue Life](https://developer.synopsys.com/app/ansys-inc/thermo-mechanical-fatigue-life/190-1.md)
+    
+    Calculates LCF/TMF life (based on BAM damage model) of a component operating at high temperature changes in its operational time.
+- [Dynamic Contact Angle](https://developer.synopsys.com/app/ansys-inc/dynamic-contact-angle/2.md)
+    
+    Automatic settings of dynamic contact angle for VOF simulations. Write out a UDF source file to calculate the dynamic contact angle and build the UDF library (users do not have to directly edit and compile the UDF source)
+- [NACA Airfoil Maker](https://developer.synopsys.com/app/ansys-inc/naca-airfoil-maker/2.md)
+    
+    Easily make NACA (National Advisory Committee for Aeronautics) airfoil geometry models for 3D fluid flow computations
+- [DesignModeler Utilities](https://developer.synopsys.com/app/ansys-inc/designmodeler-utilities/3-41.md)
+    
+    Exposes some useful utilities of DesignModeler
+- [FRF Evaluation Extension Using Modal Analysis Results](https://developer.synopsys.com/app/cybernet-systems-corporation/frf-evaluation-extension-using-modal-analysis-results/1-2.md)
+    
+    Frequency response function (FRF) evaluation extension using modal analysis results.
+- [Hot Spot Finder](https://developer.synopsys.com/app/ansys-inc/hot-spot-finder/1.md)
+    
+    Find and mark high stress areas in a model. Pinball radius ensures no duplicate areas are found. Optional local coordinate systems can be generated for local mesh refinement
+- [Rotordynamics Tools](https://developer.synopsys.com/app/ansys-inc/rotordynamics-tools/1.md)
+    
+    Expose extended functionality for importing bearing coefficients, plotting whirl orbits in graphics window, getting Campbell diagram data, and setting up typical rotordynamic constraints [Contains source code]
+- [Ansys Topology Optimization](https://developer.synopsys.com/app/ansys-inc/ansys-topology-optimization/1.md)
+    
+    Expose Topology Optimization capabilities in Workbench Mechanical.Optimized model can be exported and edited in SpaceClaim for performing validation study and/or 3D printing
+- [Solder Joint Fatigue Life Prediction](https://developer.synopsys.com/app/ansys-inc/solder-joint-fatigue-life-prediction/2-5.md)
+    
+    Predict fatigue life in solder joint using Darveaux method
+- [Mechanical Embedded DesignLife](https://developer.synopsys.com/app/ansys-inc/mechanical-embedded-designlife/201.md)
+    
+    Expose nCode DesignLife in Mechanical allowing the user to perform fatigue analysis.
+- [Convert To Point Mass](https://developer.synopsys.com/app/ansys-inc/convert-point-mass/1.md)
+    
+    One click to convert solid components into point mass with automatic calculations and assignments of total mass, center of gravity location, and moment of inertia [Contains source code]
+- [Analysis Settings Importer](https://developer.synopsys.com/app/ansys-inc/analysis-settings-importer/3.md)
+    
+    Allow to use a .csv file to import analysis settings for time stepping [Contains source code]
+- [Write Thermal Loads](https://developer.synopsys.com/app/ansys-inc/write-thermal-loads/1.md)
+    
+    This ACT will write thermal loads files. This can help pass temperatures from AEDT Icepak to Mechanical in Workbench.
+- [XFEM Initiation And Propagation](https://developer.synopsys.com/app/ansys-inc/xfem-initiation-and-propagation/1.md)
+    
+    Expose eXtended Finite Element Method (XFEM) quasi-static and fatigue crack growth solver capabilities in Mechanical
+- [Thermal Comfort](https://developer.synopsys.com/app/ansys-inc/thermal-comfort/1.md)
+    
+    Compute Predicted Mean Vote (PMV) and Predicted Percentage Dissatisfied (PPD) from the solution data and create a report containing the maximum and minimum values in the computational domain along with contour at different sections across the computation
+- [LS-Dyna Structured-ALE](https://developer.synopsys.com/app/ansys-inc/ls-dyna-structured-ale/1.md)
+    
+    Provides a interactive interface for building and running Structured-ALE (Arbitrary Lagrangian Eulerian Method) analysis in Workbench LS-DYNA. Solve high speed Fluid-Structural-Interaction problems such as under water impact and bird strike more easily
+- [Stress Envelop](https://developer.synopsys.com/app/ansys-inc/stress-envelop/1-3.md)
+    
+    Create an Envelope of Max/Min Stresses over all the time steps (substeps). User can either scope it to all the time steps or scope to certain time window.
+- [Response Surface Reader](https://developer.synopsys.com/app/ansys-inc/response-surface-reader/3-6.md)
+    
+    Response Surface readers to load and evaluate any response surface exported from DX and OptiSLang as .dxrom and .omdb files, either from Workbench, from Microsoft Excel or using a standalone executable.
+- [CFX2Fluent](https://developer.synopsys.com/app/ansys-inc/cfx2fluent/2.md)
+    
+    Connect CFX Setup with Fluent Setup for extended, automatable CFD analysis within the Ansys Workbench Project Schematic
+- [Explicit Time Step](https://developer.synopsys.com/app/ansys-inc/explicit-time-step/2.md)
+    
+    Estimate and plot the Courant-Friedrichs-Lewy (CFL) time step for Explicit Dynamics analyses, based on the currently-defined mesh and material properties, prior to executing the solution [Contains source code]
+- [Motion Loads](https://developer.synopsys.com/app/ansys-inc/motion-loads/2-1.md)
+    
+    Apply motion loads issued from a Rigid body analysis in a static structural analysis [Contains source code]
+- [Multiharmonics](https://developer.synopsys.com/app/ansys-inc/multiharmonics/1.md)
+    
+    Multiharmonics App is based on ACT and DPF. This App leverages DPF’s “fft_multi_harmonic_minmax” to improve the performance of the operations while also allowing a more accurate way of combining harmonic result than SRSS, where phase information is lost.
+- [Beam End Release](https://developer.synopsys.com/app/ansys-inc/beam-end-release/2.md)
+    
+    Expose the end release feature for beam elements and enable advanced graphic post-processing for beam results.
+- [STK SpaceClaim Add-In](https://developer.synopsys.com/app/ansys-inc/stk-spaceclaim-add/1.md)
+    
+    This provides an extra toolbar for SpaceClaim that adds support for Ansys Systems Tool Kit (STK). It allows creation of STK \&quot;Attach Points\&quot; and \&quot;Articulations\&quot; on a SpaceClaim model, and a means to export the model to STK.
+- [Additive Print Transfer](https://developer.synopsys.com/app/ansys-inc/additive-print-transfer/2020-1.md)
+    
+    Extension to improve the workflow of importing results from Additive Print into Workbench for post processing steps.
+- [Wind Tunnel Design](https://developer.synopsys.com/app/ansys-inc/wind-tunnel-design/2.md)
+    
+    Enable simulation of aerodynamic effects on components through a virtual wind tunnel (incompressible air flow up to Mach 0.3.) [Contains source code]
+- [Icepak BC Mapping](https://developer.synopsys.com/app/ansys-inc/icepak-bc-mapping/1.md)
+    
+    This ACT helps automate the process of mapping Boundary Conditions (BCs) from one AEDT Icepak design to another.
+- [Offshore](https://developer.synopsys.com/app/ansys-inc/offshore/15-2.md)
+    
+    Expose the MAPDL offshore features in Mechanical.
+- [Near Field Aperture Source](https://developer.synopsys.com/app/ansys-inc/near-field-aperture-source/1.md)
+    
+    Model radiation fields of antennas and phased arrays without modelling geometry.
+- [Moment of Inertia Calculation](https://developer.synopsys.com/app/ansys-inc/moment-inertia-calculation/1-1.md)
+    
+    Calculate moment of inertia of 2D and 3D objects in Ansys Maxwell and create a Band with assigned value. Allow to calculate the value not depending on it complicity and provide exact value. Help to analyze a model consider mechanical transient processes.
+- [Coupled Diffusion](https://developer.synopsys.com/app/ansys-inc/coupled-diffusion/1.md)
+    
+    Introduce coupled diffusion analysis (structural diffusion, thermal diffusion, and structural thermal diffusion) in both static and full transient analysis.
+- [ROM Extract](https://developer.synopsys.com/app/ansys-inc/rom-extract/1.md)
+    
+    Extract Linear and Time-Invariant (LTI) Reduced Order Model (ROM) from Ansys Fluent 3-D Computation Fluid Dynamics (CFD) simulations for system-level analysis in Ansys Simplorer.
+- [RSTMAC](https://developer.synopsys.com/app/ansys-inc/rstmac/1.md)
+    
+    Implement Modal Assurance Criterion calculation to compare the nodal solutions from two results files (.rst or .rstp) or from one results file and one Universal Format file (.unv).
+- [APDL Editor](https://developer.synopsys.com/app/ansys-inc/apdl-editor/1-1.md)
+    
+    Allow for users to have an environment for writing APDL commands that is integrated with live, contextual help. Command argument recognition, command searching, and automatic help page display are all available to help streamline and debug the APDL code
+- [Multi Object Export](https://developer.synopsys.com/app/ansys-inc/multi-object-export/1-1.md)
+    
+    Export results for multiple objects at once and have the data combined into a single output file, avoiding the need for multiple exports and manual collection/combination of the data. [Contains source code]
+- [Acoustics](https://developer.synopsys.com/app/ansys-inc/acoustics/192-1.md)
+    
+    Expose 3D acoustics solver capabilities to perform acoustic, vibro-acoustic, contained fluid or immersed structure analyses.
+- [Piezo and MEMS](https://developer.synopsys.com/app/ansys-inc/piezo-and-mems/2020-1.md)
+    
+    Expose Coupled Field Physics, piezo-electric and MEMS solver capabilities in Workbench.
+- [Relative Displacement](https://developer.synopsys.com/app/ansys-inc/relative-displacement/6-1.md)
+    
+    This extension enables the computation of a structure&#039;s relative deformation in a moving coordinate system created by nodes in the model, which will follow the motion of the nodes. Now compatible with linked analyses such as thermal to structural.
+- [Electro-Thermal](https://developer.synopsys.com/app/ansys-inc/electro-thermal/4.md)
+    
+    Automate the coupling of Electromagnetic tools (HFSS, Maxwell 3D, Q3D, HFSS Layout) to Icepak in AEDT for an electro-thermal simulation.
+- [Bolt Result](https://developer.synopsys.com/app/advens-engineering/bolt-result/1.md)
+    
+    BoltResult scans all time steps and gives the maximum values of Axial Force, Shear at I &amp;amp; J, Torque, Moment at I &amp;amp; J in a time-dependent or time-independent analysis.
+- [API 4F Wind Loading](https://developer.synopsys.com/app/ansys-inc/api-4f-wind-loading/1.md)
+    
+    Apply wind loading on solid/shell/beam geometry per API 4F guideline [Contains source code]
+- [AutoSubmodel](https://developer.synopsys.com/app/ansys-inc/autosubmodel/1.md)
+    
+    The Auto Submodel extension is the automation of the procedure in doing submodelling from the full model. No repetitive work needed for cutting full geometry, importing interface, resetting contacts, materials etc., as they are all automated.
+- [Python Code Tools](https://developer.synopsys.com/app/ansys-inc/python-code-tools/1.md)
+    
+    This application provides a set of utilities to users of Python Code or Python Results: Copy/Paste, Run, Import/Export to share with other users and a copy to clipboard capability used for debugging purposes.
+
+## How to use this documentation
+- Documentation is organized by **product package** and **release version**.
+- Typical landing page URL pattern: `https://developer.ansys.com/docs/product-slug`
+- Example: [DPF landing page](https://developer.ansys.com/docs/dpf.md)
+- Typical page URL pattern: `https://developer.ansys.com/docs/package-version-slug/path-to-page.md`
+- Example: [DPF Framework 2026 R1 index](https://developer.ansys.com/docs/dpf-framework-2026-r1/index.md)
+- Use the [Ansys Developer product guide](https://developer.ansys.com/docs/ansys-developer-product-guide/index.md) to find developer resources by Ansys product.
+- For Python-based automation across products, also see [PyAnsys documentation](https://docs.pyansys.com/).
+
+## Developer guides
+- [Ansys Developer product guide](https://developer.ansys.com/docs/ansys-developer-product-guide/index.md): Entry point for developer resources across all Ansys products
+- [Glossary](https://developer.ansys.com/docs/ansys-developer-product-guide/glossary.md): Common developer and API terminology
+- [Ansys Python Manager](https://developer.ansys.com/ansys-python-manager.md): Tool for installing Python and creating virtual environments for PyAnsys development
+
+## Structures and mechanical simulation
+- [DPF for developers](https://developer.ansys.com/docs/dpf.md): Postprocessing for MAPDL, Mechanical, and structural result files
+- [Mechanical scripting interface](https://developer.ansys.com/docs/mechanical.md): Python scripting inside Ansys Mechanical
+- [Motion for developers](https://developer.ansys.com/docs/motion.md): Motion preprocessor and postprocessor libraries
+- [Rigid Body Dynamics for developers](https://developer.ansys.com/docs/rigid-body-dynamics.md): Rigid dynamics command reference
+- [ACP for developers](https://developer.ansys.com/docs/acp.md): Composite PrepPost scripting and developer resources
+- [System Coupling for developers](https://developer.ansys.com/docs/system-coupling.md): Participant libraries and coupling APIs
+- [Sherlock for developers](https://developer.ansys.com/docs/sherlock.md): Sherlock APIs and automation
+
+## Connect, optimization, and workflow automation
+- [ModelCenter for developers](https://developer.ansys.com/docs/modelcenter.md): ModelCenter APIs and integration documentation
+- [optiSLang for developers](https://developer.ansys.com/docs/optislang.md): optiSLang APIs, customization, and solver interfaces
+
+## Materials
+- [Granta MI for developers](https://developer.ansys.com/docs/granta-mi.md): Materials data and scripting
+
+## Fluids
+- [DPF for developers](https://developer.ansys.com/docs/dpf.md): Postprocessing for Fluent, CFX, and CFD result files
+- [Ansys Common Fluids Format SDK](https://developer.ansys.com/docs/cff.md): APIs for Ansys Common Fluids Format files
+- [EnSight for developers](https://developer.ansys.com/docs/ensight.md): EnSight and related post-processing developer resources
+- [Rocky for developers](https://developer.ansys.com/docs/rocky.md): Rocky SDK and scripting documentation
+- [Thermal Desktop for developers](https://developer.ansys.com/docs/thermal-desktop.md): OpenTD scripting and automation
+- [System Coupling for developers](https://developer.ansys.com/docs/system-coupling.md): Participant libraries and coupling APIs
+- [Ansys Dynamic Reporting for developers](https://developer.ansys.com/docs/adr.md): Ansys ADR 3D Viewer Web Component and ADR Websocket Server
+
+## Multiphysics
+- [DPF for developers](https://developer.ansys.com/docs/dpf.md): Physics-agnostic postprocessing for structures, fluids, and multiphysics workflows
+- [Sherlock for developers](https://developer.ansys.com/docs/sherlock.md): Sherlock APIs and automation
+- [System Coupling for developers](https://developer.ansys.com/docs/system-coupling.md): Participant libraries and coupling APIs
+
+## Optics and photonics
+- [Lumerical for developers](https://developer.ansys.com/docs/lumerical.md): Lumerical automation APIs
+- [Speos for developers](https://developer.ansys.com/docs/speos.md): Speos APIs and automation
+- [Zemax for developers](https://developer.ansys.com/docs/zemax.md): OpticStudio ZOS-API and developer resources
+
+## Autonomous vehicle simulation
+- [AVxcelerate for developers](https://developer.ansys.com/docs/avxcelerate.md): AVxcelerate simulation developer resources
+
+## Electronics
+- [Ansys Dynamic Reporting for developers](https://developer.ansys.com/docs/adr.md): Ansys ADR 3D Viewer Web Component and ADR Websocket Server
+- [Sherlock for developers](https://developer.ansys.com/docs/sherlock.md): Sherlock APIs and automation
+
+## Meshing, CAD
+<div class="tex2jax_process"><p>- [Prime Mesh for developers](<a href="https://developer.ansys.com/docs/primemesh.md">https://developer.ansys.com/docs/primemesh.md</a>): Meshing APIs and Python client</p>
+</div>
+
+##  3D design
+<div class="tex2jax_process"><p>- [Discovery for developers](<a href="https://developer.ansys.com/docs/discovery.md">https://developer.ansys.com/docs/discovery.md</a>): Discovery extensibility and tooling</p>
+</div>
+
+## Shared Technology Components
+<div class="tex2jax_process"><p>- [Ansys Dynamic Reporting for developers](<a href="https://developer.ansys.com/docs/adr.md">https://developer.ansys.com/docs/adr.md</a>): Ansys ADR 3D Viewer Web Component and ADR Websocket Server</p>
+</div>
+
+## Acoustics
+- [Sound for developers](https://developer.ansys.com/docs/sound.md): Sound analysis developer resources
+
+## Embedded software
+- [Scade One for developers](https://developer.ansys.com/docs/scade-one): Scade One developer resources
+- [SCADE for developers](https://developer.ansys.com/docs/scade): SCADE developer resources
+
+## AI
+- [SimAI for developers](https://developer.ansys.com/docs/simai.md): SimAI developer resources
+
+## Community, training, and open source
+- [Ansys developer forum](https://discuss.ansys.com/): Ask questions and share solutions
+- [PyAnsys](https://docs.pyansys.com/): Python client libraries for Ansys products
+- [Ansys GitHub](https://github.com/ansys): Source code for PyAnsys and related tools
+- [Ansys Learning Hub](https://learninghub.ansys.com/pages/17/home-page): Official training courses
+- [Ansys Innovation Space](https://innovation.ansys.com/public/): Customer learning resources
