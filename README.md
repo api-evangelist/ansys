@@ -1,4 +1,4 @@
-# ansys
+# Ansys
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,4 +64,111 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Ansys — engineering simulation (Mechanical, Fluent, HFSS, etc.)
+Ansys is a global engineering simulation company (now part of Synopsys) with a deep portfolio spanning structures (Mechanical, LS-DYNA, Motion), fluids (Fluent, CFX, Rocky), electronics (HFSS, Maxwell, SIwave, Icepak), semiconductors (RedHawk, Totem), optics, photonics, materials (Granta), 3D design (Discovery, SpaceClaim), embedded software (SCADE), and systems (optiSLang, Twin Builder). Ansys also runs Ansys Cloud for burst HPC and offers Ansys Apps in the Cloud. The primary public developer surface is PyAnsys — an open-source family of 45+ Python packages on GitHub (ansys/pyansys metapackage) that wrap individual Ansys products as Pythonic interfaces. There is no public web REST API portal; programmatic access is licensed per product and driven through PyAnsys, ACT (Ansys Customization Toolkit), product scripting (MAPDL, Fluent TUI/Scheme), and Ansys Cloud.
+
+**Areas:** Simulation · Engineering · CAE · CFD · FEA · Electromagnetics · Multiphysics · Cloud · Python · SDK
+
+## Ansys on APIs.io
+
+Everything profiled for Ansys is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/ansys/](https://apis.io/providers/ansys/)** — or go straight to one of the APIs or properties below.
+
+### APIs (4)
+
+- [PyAnsys](https://apis.io/apis/ansys/pyansys/) — Open-source Python ecosystem for Ansys products. The pyansys metapackage bundles 45+ libraries including PyMAPDL (Mechanical APDL), PyFluent (Fluent CFD),…
+- [Ansys Cloud](https://apis.io/apis/ansys/cloud/) — Ansys Cloud delivers on-demand HPC and Ansys product instances on Microsoft Azure for burst simulation workloads. Cloud access is gated through commercial…
+- [Ansys MAPDL gRPC API](https://apis.io/apis/ansys/mapdl-grpc/) — gRPC service contract (package ansys.api.mapdl.v0) that PyMAPDL uses to drive a licensed Mechanical APDL server: command execution, input streaming,…
+- [Ansys Mechanical gRPC API](https://apis.io/apis/ansys/mechanical-grpc/) — gRPC service contract (package ansys.api.mechanical.v0) used by PyMechanical to run scripts against a licensed Ansys Mechanical server, published in the…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Ansys Domain Security](https://apis.io/security/ansys/ansys-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Ansys Plans Pricing](https://apis.io/plans/ansys/ansys-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Ansys Rate Limits](https://apis.io/rate-limits/ansys/ansys-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Ansys Finops](https://apis.io/finops/ansys/ansys-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.ansys.com)
+- [Documentation](https://ansyshelp.ansys.com)
+- [Pricing](https://www.ansys.com/contact-us)
+- [Support](https://www.ansys.com/support)
+- [Blog](https://ansys.synopsys.com/blog)
+- [Terms of service](https://developer.synopsys.com/terms-and-conditions)
+- [Privacy policy](https://ansys.synopsys.com/legal/privacy-notice)
+- [GitHub](https://github.com/ansys)
+
+## API Evangelist rating
+
+**Kin Score 27.8** — thin · rubric 0.24.0 · scored 2026-10-20
+
+| Facet | Score |
+|---|---|
+| Discoverability | 64.3 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 26.3 |
+| Developer ergonomics | 33.3 |
+| Access clarity | 36.8 |
+
+**Agent readiness 3.5** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/ansys/](https://apis.io/providers/ansys/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Ansys: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/ansys/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
